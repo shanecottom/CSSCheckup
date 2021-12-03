@@ -1,0 +1,35 @@
+body {
+    background-color: ivory;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.div-header {
+    background-color: burlywood;
+}
+
+.div-interested {
+    margin: 0px 250px 0px 250px;
+    background-color: burlywood;
+}
+
+#infotext {
+    background-color: darkred;
+    border: 25px solid burlywood;
+}
+
+#numberOne {
+    font-size: 50px;
+    color: burlywood;
+}
+
+.div-safety {
+    height: 700px;
+    background-color: burlywood;
+}
